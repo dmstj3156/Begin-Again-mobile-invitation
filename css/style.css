@@ -86,7 +86,7 @@ section .container h2{
     text-align: center;
     font-size: 14px;
     height: 100px;
-    background-image: url(./images/banner.png);
+    background-image: url(../images/banner.png);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
